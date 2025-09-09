@@ -23,3 +23,9 @@ How to run
 		- register / login
 		
 		- create posts
+
+
+
+Reference:
+
+[Node.js & MongoDB: Developing Back-end Database Applications](https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb?specialization=ibm-full-stack-javascript-developer) (a course of [IBM Full-Stack JavaScript Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer))
